@@ -38,12 +38,14 @@ Unlike generic models, NOIR employs 5 custom-built forensic signals:
 ### 1. The Network Takedown (Graph Analysis)
 *Visualizing the hidden connections between "Mule Accounts" sharing the same device fingerprint.*
 
-![Place your Graph Image Here](https://via.placeholder.com/800x400?text=Insert+Network+Graph+Screenshot+Here)
+<img width="895" height="592" alt="image" src="https://github.com/user-attachments/assets/b59e0ea1-a3fd-49bd-b6e3-442c3257c13c" />
+
 
 ### 2. Feature Importance
 *Proving that behavioral signals (Burn Rate) outperform static data.*
 
-![Place Feature Importance Image Here](https://via.placeholder.com/800x400?text=Insert+Feature+Importance+Screenshot)
+<img width="872" height="293" alt="image" src="https://github.com/user-attachments/assets/c97c21c0-2a21-461f-b5da-1c5992fc7bfe" />
+
 
 ---
 
